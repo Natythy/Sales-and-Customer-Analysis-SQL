@@ -1,6 +1,8 @@
 # <p align="center"> Project Description: Sales and Customer Analysis 🛍️📈</p>
 In today's competitive market, understanding customer behavior is paramount for business success. This project addresses that need by providing a comprehensive SQL-based solution for sales and customer analysis. Through meticulously designed database schema, data population, and analytical queries, this repository offers actionable insights into purchasing patterns and product performance, enabling data-driven decision-making.
 
+Furthermore, the aggregated customer metrics generated in this project (such as total spend and purchase frequency) serve as foundational **Feature Engineering** for future Machine Learning models, such as Customer Churn prediction or K-Means Clustering.
+
 ## 🚀 **Key Features**
 * **Database Schema Creation** (`create_database.sql`): This script sets up a normalized database schema consisting of three tables:
   * `customers`: Stores demographic information, such as age, gender, location, and income.
